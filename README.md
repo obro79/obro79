@@ -17,7 +17,7 @@ CS @ UBC, Class of 2027
 
 ## Currently Learning
 
-Deepening Python skills, networking, and system design
+Deepening Python skills, networking, and system design, having fun building some ai agents with langchain
 
 ## Let's Connect
 
