@@ -1,6 +1,6 @@
 # Hi, I'm Owen 👋
 
-Backend/infra developer looking for **Summer 2026 internships**. I love shipping fast and thrive in startup environments.
+Backend/infra developer who ships fast and thrives in high-pace startup environments. Open to SF startup roles.
 
 ## Tech Stack
 
@@ -20,10 +20,12 @@ Backend/infra developer looking for **Summer 2026 internships**. I love shipping
 ## About
 
 CS @ UBC, Class of 2027
+- 1st Overall Western Canada's Biggest Hackathon
+- 1st @ Hacktech x YC track + 3rd Sideshift side prize
 
 ## Currently Learning
 
-Deepening Python skills, networking, and system design, a little OS on the side and having fun building some ai agents with langchain
+Deepening Python, networking, systems, and infra fundamentals while grinding on AI agents, recruiting automation, and tools that make real workflows faster.
 
 ## Let's Connect
 
