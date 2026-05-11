@@ -21,7 +21,8 @@ Backend/infra developer who ships fast and thrives in high-pace startup environm
 
 CS @ UBC, Class of 2027
 - 1st Overall Western Canada's Biggest Hackathon
-- 1st @ Hacktech x YC track + 3rd Sideshift side prize
+- 1st @ Hacktech x YC track + 3rd Sideshift sponsor prize
+- 1st Overall Cursor AI Hackathon + 1st Clustly sponsor prize
 
 ## Currently Learning
 
