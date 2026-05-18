@@ -26,7 +26,7 @@ CS @ UBC, Class of 2027
 
 ## Currently Learning
 
-Deepening Python, networking, systems, and infra fundamentals while grinding on AI agents, recruiting automation, and tools that make real workflows faster.
+Deepening Python, networking, systems, and infra fundamentals while grinding on AI agent and falling more in love with stream processing.
 
 ## Let's Connect
 
