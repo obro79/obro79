@@ -1,6 +1,6 @@
 # Hi, I'm Owen 👋
 
-Backend/infra developer who ships fast and thrives in high-pace startup environments. Open to SF startup roles.
+Backend/infra developer and CS student at UBC. Currently working at Sennberg in San Mateo on backend systems, infrastructure, and AI-agent product work.
 
 ## Tech Stack
 
@@ -20,13 +20,15 @@ Backend/infra developer who ships fast and thrives in high-pace startup environm
 ## About
 
 CS @ UBC, Class of 2027
+- Currently working at Sennberg in San Mateo on backend systems, infrastructure, and AI-agent product work
+- Previously worked as a Quant at Royal Bank of Canada, building data and analytics tooling for markets workflows
 - 1st Overall Western Canada's Biggest Hackathon
 - 1st @ Hacktech x YC track + 3rd Sideshift sponsor prize
 - 1st Overall Cursor AI Hackathon + 1st Clustly sponsor prize
 
 ## Currently Learning
 
-Deepening Python, networking, systems, and infra fundamentals while grinding on AI agent and falling more in love with stream processing.
+Deepening Python, networking, systems, and infra fundamentals while grinding on AI agents and falling more in love with stream processing.
 
 ## Let's Connect
 
