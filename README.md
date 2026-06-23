@@ -1,6 +1,6 @@
 # Hi, I'm Owen 👋
 
-Backend/infra developer and CS student at UBC. Currently working at Sennberg in San Mateo on backend systems, infrastructure, and AI-agent product work.
+Backend/infra developer and CS student at UBC. I like building practical systems across data, infrastructure, and AI-agent products.
 
 ## Tech Stack
 
@@ -17,11 +17,14 @@ Backend/infra developer and CS student at UBC. Currently working at Sennberg in 
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## Experience
+
+- Currently working at Sennberg in San Mateo on backend systems, infrastructure, and AI-agent product work
+- Previously worked as a Quant at Royal Bank of Canada, building data and analytics tooling for markets workflows
+
 ## About
 
 CS @ UBC, Class of 2027
-- Currently working at Sennberg in San Mateo on backend systems, infrastructure, and AI-agent product work
-- Previously worked as a Quant at Royal Bank of Canada, building data and analytics tooling for markets workflows
 - 1st Overall Western Canada's Biggest Hackathon
 - 1st @ Hacktech x YC track + 3rd Sideshift sponsor prize
 - 1st Overall Cursor AI Hackathon + 1st Clustly sponsor prize
