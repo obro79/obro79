@@ -19,8 +19,8 @@ Backend/infra developer and CS student at UBC. I like building practical systems
 
 ## Experience
 
-- Currently working at Sennberg in San Mateo on backend systems, infrastructure, and AI-agent product work
-- Previously worked as a Quant at Royal Bank of Canada, building data and analytics tooling for markets workflows
+- Currently working at Sendbird in San Mateo on backend systems, infrastructure, and AI-agent product work
+- Previously worked as a Quantitative Developer at Royal Bank of Canada, building data and analytics tooling for markets workflows
 
 ## About
 
