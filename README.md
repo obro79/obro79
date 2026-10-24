@@ -1,7 +1,7 @@
 <h1 align="center">Owen Fisher</h1>
 
 <p align="center">
-  <b>Backend &amp; infrastructure engineer · AI agents · stream processing</b><br/>
+  <b>Backend &amp; infrastructure engineer · real-time ML systems · AI agents</b><br/>
   CS @ UBC, Class of 2027 · 3× hackathon 1st place
 </p>
 
@@ -47,4 +47,4 @@ I build backend systems that hold up in production, and I ship products fast whe
 
 ## Right now
 
-Going deeper on networking, distributed systems, and stream processing, and building AI agents that are safe to leave running. Always happy to talk with founders and teams working on infra or agents. The fastest way to reach me is [email](mailto:owenfisher46@gmail.com).
+Going deeper on real-time ML systems, stream processing, and distributed systems, and building AI agents that are safe to leave running. Always happy to talk with founders and teams working on infra, real-time ML, or agents. The fastest way to reach me is [email](mailto:owenfisher46@gmail.com).
