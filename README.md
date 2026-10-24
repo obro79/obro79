@@ -1,40 +1,50 @@
-# Hi, I'm Owen 👋
+<h1 align="center">Owen Fisher</h1>
 
-Backend/infra developer and CS student at UBC. I like building practical systems across data, infrastructure, and AI-agent products.
+<p align="center">
+  <b>Backend &amp; infrastructure engineer · AI agents · stream processing</b><br/>
+  CS @ UBC, Class of 2027 · 3× hackathon 1st place
+</p>
 
-## Tech Stack
+<p align="center">
+  <a href="https://owenfisher.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website"/></a>
+  <a href="https://linkedin.com/in/fisherowen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:owenfisher46@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+I build backend systems that hold up in production, and I ship products fast when the clock is running. I've worked on infrastructure and AI-agent products at **Sendbird** and built markets data tooling as a quant developer at **RBC**. On weekends I win hackathons.
 
 ## Experience
 
-- Worked Sendbird in San Mateo on backend systems, infrastructure, and AI-agent product work
-- Previously worked as a Quantitative Developer at Royal Bank of Canada, building data and analytics tooling for markets workflows
+| Company | Role | What I worked on |
+| --- | --- | --- |
+| **Sendbird** · San Mateo, CA | Backend &amp; Infra Engineering | Backend systems, infrastructure, and AI-agent product work |
+| **Royal Bank of Canada** | Quantitative Developer | Data and analytics tooling for capital markets workflows |
 
-## About
+## Hackathon wins
 
-CS @ UBC, Class of 2027
-- 1st Overall Western Canada's Biggest Hackathon
-- 1st @ Hacktech x YC track + 3rd Sideshift sponsor prize
-- 1st Overall Cursor AI Hackathon + 1st Clustly sponsor prize
+| Result | Event | Project |
+| --- | --- | --- |
+| 🥇 1st Overall | **nwHacks 2026** (Western Canada's biggest hackathon) | [Rehabify](https://github.com/obro79/Rehabify) |
+| 🥇 1st, YC track · 🥉 3rd, Sideshift prize | **HackTech 2026** | [Recruit](https://github.com/recruitttt/recruit-main) |
+| 🥇 1st Overall · 🥇 1st, Clustly prize | **Cursor AI Hackathon** | |
 
-## Currently Learning
+## Featured projects
 
-Deepening Python, networking, systems, and infra fundamentals while grinding on AI agents and falling more in love with stream processing.
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [**Flux**](https://github.com/obro79/Flux) | Real-time crypto market data pipeline. Coinbase and Kraken feeds fan out through Kafka into candle aggregation and streaming indicators, served over REST and WebSocket, with Prometheus and Grafana alerting on consumer lag and the DLQ. | Python, Kafka, FastAPI, Postgres, Redis, Docker |
+| [**Rehabify**](https://github.com/obro79/Rehabify) | AI physical therapy coach. Pose estimation runs in the browser and a voice coach corrects your form mid-rep, while PTs get a remote dashboard of patient progress. | Next.js, TypeScript, MediaPipe, Gemini |
+| [**Recruit**](https://github.com/recruitttt/recruit-main) | Supervised AI agents for the job hunt. They discover and rank roles, tailor the resume, and fill ATS forms, and they send any question they can't answer from facts to a human review queue. | Next.js, Convex, OpenAI, Anthropic |
+| [**EchoMe**](https://github.com/obro79/stormhacks) | Speak an idea, get a deployed app. Voice in, Claude generates the full-stack code, Vercel ships it. | Next.js, Claude API, Vercel |
+| [**AI Voice Interviewer**](https://github.com/obro79/mock_interview_ai) | Practice interviews out loud with a real-time voice agent, with a live transcript, call state, and feedback. | Next.js, Vapi, TypeScript |
 
-## Let's Connect
+## Stack
 
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://owenfisher.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:owenfisher46@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fisherowen)
+**Languages:** Python · TypeScript · SQL<br/>
+**Backend & data:** FastAPI · Kafka · PostgreSQL · Redis · PySpark · Databricks<br/>
+**Infra:** AWS · Docker · Terraform · Prometheus · Grafana<br/>
+**Product:** Next.js · React · LLM agents and voice AI
+
+## Right now
+
+Going deeper on networking, distributed systems, and stream processing, and building AI agents that are safe to leave running. Always happy to talk with founders and teams working on infra or agents. The fastest way to reach me is [email](mailto:owenfisher46@gmail.com).
