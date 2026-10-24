@@ -26,7 +26,7 @@ I build backend systems that hold up in production, and I ship products fast whe
 | --- | --- | --- |
 | 🥇 1st Overall | **nwHacks 2026** (Western Canada's biggest hackathon) | [Rehabify](https://github.com/obro79/Rehabify) |
 | 🥇 1st, YC track · 🥉 3rd, Sideshift prize | **HackTech 2026** | [Recruit](https://github.com/recruitttt/recruit-main) |
-| 🥇 1st Overall · 🥇 1st, Clustly prize | **Cursor AI Hackathon** | |
+| 🥇 1st Overall · 🥇 1st, Clustly prize | **Cursor AI Hackathon** | [MaintainerOS](https://github.com/obro79/maintainerOS) |
 
 ## Featured projects
 
@@ -35,6 +35,7 @@ I build backend systems that hold up in production, and I ship products fast whe
 | [**Flux**](https://github.com/obro79/Flux) | Real-time crypto market data pipeline. Coinbase and Kraken feeds fan out through Kafka into candle aggregation and streaming indicators, served over REST and WebSocket, with Prometheus and Grafana alerting on consumer lag and the DLQ. | Python, Kafka, FastAPI, Postgres, Redis, Docker |
 | [**Rehabify**](https://github.com/obro79/Rehabify) | AI physical therapy coach. Pose estimation runs in the browser and a voice coach corrects your form mid-rep, while PTs get a remote dashboard of patient progress. | Next.js, TypeScript, MediaPipe, Gemini |
 | [**Recruit**](https://github.com/recruitttt/recruit-main) | Supervised AI agents for the job hunt. They discover and rank roles, tailor the resume, and fill ATS forms, and they send any question they can't answer from facts to a human review queue. | Next.js, Convex, OpenAI, Anthropic |
+| [**MaintainerOS**](https://github.com/obro79/maintainerOS) | Work routing for open-source maintainers. It imports a GitHub issue backlog, sorts it into lanes for agent fixes, contributor bounties, or human review, and only pays out a bounty once the PR passes verification. | Next.js, Neon Postgres, Daytona, Greptile, Stripe |
 | [**EchoMe**](https://github.com/obro79/stormhacks) | Speak an idea, get a deployed app. Voice in, Claude generates the full-stack code, Vercel ships it. | Next.js, Claude API, Vercel |
 | [**AI Voice Interviewer**](https://github.com/obro79/mock_interview_ai) | Practice interviews out loud with a real-time voice agent, with a live transcript, call state, and feedback. | Next.js, Vapi, TypeScript |
 
