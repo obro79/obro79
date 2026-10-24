@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Backend &amp; infrastructure engineer · AI agents · stream processing</b><br/>
-  CS @ UBC, Class of 2027 · 4× hackathon 1st place
+  CS @ UBC, Class of 2027 · 3× hackathon 1st place
 </p>
 
 <p align="center">
@@ -26,7 +26,6 @@ I build backend systems that hold up in production, and I ship products fast whe
 | --- | --- | --- |
 | 🥇 1st Overall | **nwHacks 2026** (Western Canada's biggest hackathon) | [Rehabify](https://github.com/obro79/Rehabify) |
 | 🥇 1st, YC track · 🥉 3rd, Sideshift prize | **HackTech 2026** | [Recruit](https://github.com/recruitttt/recruit-main) |
-| 🥇 1st Overall | **StormHacks 2025** | [EchoMe](https://github.com/obro79/stormhacks) |
 | 🥇 1st Overall · 🥇 1st, Clustly prize | **Cursor AI Hackathon** | |
 
 ## Featured projects
